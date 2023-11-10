@@ -1,0 +1,4 @@
+mysql==0.0.3
+mysql-connector-python==8.2.0
+pip-chill==1.0.3
+python-decouple==3.8
