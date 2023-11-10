@@ -30,6 +30,6 @@ SyncSQL is a cli tool designed to sync your local database with production datab
     
 ## Limitations
 
-- Only support MySQL as of now
-- Slow for higher changes need Optimization
-- Simple version numbering is allowed complex may broke the system
+- As of now support only MySQL
+- Slow for larger changes. need Optimization
+- Simple version numbering is only allowed, complex may break the system
